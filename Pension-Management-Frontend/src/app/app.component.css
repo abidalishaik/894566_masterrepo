@@ -5,6 +5,9 @@
   display: flex;
 }
 .navbar-collapse {
-  display: flex;
-  padding-left: 530px;
+  margin-right: 10px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
 }
