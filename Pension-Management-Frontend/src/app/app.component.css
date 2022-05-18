@@ -1,0 +1,10 @@
+.bg-dark-blue {
+  background-color: rgb(189, 109, 205);
+}
+.container-fluid {
+  display: flex;
+}
+.navbar-collapse {
+  display: flex;
+  padding-left: 530px;
+}
