@@ -327,6 +327,6 @@ Select **/pensionerInput** POST method and click try it out
 }
 ```
 
-## 6. Pension Management Portal
+## 6. Pension-Management-Frontend
 
 This is the front end made using Angular, open VS code and enter `ng serve` in the terminal to run the application at `http:\\localhost:4200`
